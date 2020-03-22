@@ -2,7 +2,15 @@ html{
 background-color: lightgray;
 }
 .navbar{
-text-align: center;
+	position: relative;
+	text-align: center;
+}
+.
+#navbarsection{
+	position: absolute;
+	text-align: left;
+	left: 100px;	
+	float: right;
 }
 .title{
 text-align: center;
